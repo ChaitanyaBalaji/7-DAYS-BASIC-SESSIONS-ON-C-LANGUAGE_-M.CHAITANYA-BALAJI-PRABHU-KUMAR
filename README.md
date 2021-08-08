@@ -26,4 +26,4 @@ with knowing best optimized basic skills for moving further in their drean domai
 @team collaborative</h4>
 <h2 align="center">TEAM COLLABORATIVE</h2>
 <p align="right">Thanks to team collaborative</p>
-https://raw.githubusercontent.com/beginnertodesign/event-posters/main/%40team%20collaborative.png
+
