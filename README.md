@@ -1,6 +1,5 @@
 <a href="https://vtu15511.wixsite.com/collaborativelearn"><img
-src="https://github.com/beginnertodesign/event-
-posters/blob/main/%40team%20collaborative.png" alt="poster" type="png" width="100%"/></a>
+src="https://github.com/beginnertodesign/event-posters/blob/main/%40team%20collaborative.png" alt="poster" type="png" width="100%"/></a>
 # HELLO GUYS I'VE COMPLETED THE BASICS OF C-LANGUAGE WITH COLLABORATIVE LEARN CREW 
 ARE YOU INTERESTED TO LEARN THINGS LIKE THIS THEN CLICK ON BELOW IMAGE TO ENROLL FOR 
 THE FUTURE EVENTS
@@ -26,4 +25,5 @@ with knowing best optimized basic skills for moving further in their drean domai
 @team collaborative</h4>
 <h2 align="center">TEAM COLLABORATIVE</h2>
 <p align="right">Thanks to team collaborative</p>
+
 
